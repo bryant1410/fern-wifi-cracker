@@ -5,7 +5,7 @@
 <b>DISCLAIMER</b>: Fern-Wifi-Cracker is designed to be used in testing and discovering flaws in ones own network with the aim of fixing the flaws detected, <b>DO NOT</b> use the program on networks for which you dont have permission, i am not responsible for whatever damage you cause by using this software.
 <hr/> 
 
-####Visit <a href="http://www.fern-pro.com/">http://www.fern-pro.com</a> for newer downloads
+#### Visit <a href="http://www.fern-pro.com/">http://www.fern-pro.com</a> for newer downloads
 <br>
 
 <a href="http://www.fern-pro.com/"><img src="https://raw.githubusercontent.com/savio-code/savio-project-images/master/Fern/shadow_case.png"/></a>
@@ -14,14 +14,14 @@
 
 <i><b>Fern Wifi Cracker</b></i> is a Wireless security auditing and attack software program written using the <a href="http://www.python.org/">Python Programming Language</a> and the <a href="http://www.riverbankcomputing.co.uk/software/pyqt/intro">Python Qt GUI library</a>, the program is able to crack and recover WEP/WPA/WPS keys and also run other network based attacks on wireless or ethernet based networks</p>
 
-###Operating System Supported
+### Operating System Supported
 The Software runs on any <i>Linux machine</i> with the programs <a href="#prerequisites">prerequisites</a>, But the program has been tested on the following Linux based operating systems:
 
 <p>1. <a href="http://www.ubuntu.com/">Ubuntu KDE/GNOME</a></p>
 <p>2. <a href="http://www.backtrack-linux.org/">BackTrack Linux</a></p>
 <p>3. <a href="http://www.backbox.org/">BackBox Linux</a></p>
 
-###Prerequisites
+### Prerequisites
 The Program requires the following to run properly:<br>
 The following dependencies can be installed using the <i>Debian package installer</i> command on Debian based systems using "apt-get install program" or otherwise downloaded
 and installed manually
@@ -37,7 +37,7 @@ and installed manually
 
 <hr>
 
-###Features
+### Features
 <hr>
 <i>Fern Wifi Cracker</i> currently supports the following features:
 
@@ -53,7 +53,7 @@ and installed manually
 
 <hr>
 
-###Installation
+### Installation
 Installation on Debian Package supported systems:
 <br><hr>
 <code>root@host:~# dpkg -i Fern-Wifi-Cracker_1.6_all.deb</code>
@@ -72,7 +72,7 @@ user with the message <b><font color="green" size="2pt">New Update is Available<
 When the button is clicked, allow to download update files until it displays the message <b><font color="red" size="2pt">Please Restart Application</font></b>.
 <hr>
 
-###Screenshots:
+### Screenshots:
 <hr>
 <i><b>Main Window</b></i>
 <br>
@@ -87,7 +87,7 @@ When the button is clicked, allow to download update files until it displays the
 
 <hr>
 
-###Other Projects:
+### Other Projects:
 
 https://github.com/savio-code/ghost-phisher
 
